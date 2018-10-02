@@ -1,0 +1,46 @@
+.area{
+	width: 1190px;
+	margin:0 auto;
+}
+.logo{height: 88px;box-sizing: border-box;padding-top:30px;}
+.logo-img{width: 190px;height: 27px;}
+.content{width:100%;background: rgb(255, 70, 68);height:600px;}
+.inner{height: 600px;background: url(../loginimages/bg.jpg) no-repeat;position: relative;}
+.text{width: 350px; height: 400px;position: absolute;right: 75px;top: 87px;background: #fff;box-sizing: border-box;padding: 10px;z-index: 1}
+.text .icon-code{position:absolute;right: 7px;font-size: 60px;color: #ff0036;}
+.safe{width: 143px;height: 28px;border: 1px solid #df9c1f;position: absolute;top:14px; right: 65px;background: #f3d995;box-sizing: border-box; line-height: 26px;padding-left: 15px;}
+.poptip-arrow{width: 6px;height: 6px;background: #f3d995;border-top:1px solid #df9c1f;border-right: 1px solid #df9c1f;position: absolute;right:62px;top: 25px;transform: rotate(45deg); }
+.safe .icon-safe{color: #df9c1f;}
+.sao-safe{color: #df9c1f;font-size: 14px;}
+.password-login{height: 257px;width: 300px;margin-top: 33px;margin-left:9px;}
+.login-title{font-weight: bold;}
+.field{margin-top:20px; position: relative;z-index: 10;}
+.clear{position: absolute;right: 20px;top: 12px;width: 16px;height: 16px;border-radius: 50%;line-height: 14px;text-align:center;background: #6c6c6c;color: #fff;display: none;}
+.clear:hover{cursor: pointer;}
+.field-input{width: 300px;height: 41px;box-sizing: border-box;padding-left: 40px;}
+.username{width: 38px;height: 39px;position: absolute;top: 1px;left: 1px;text-align: center;line-height: 40px;background: #ddd;z-index: 5;}
+.username .icon-yonghu01{font-size: 24px;}
+.button{width: 300px;height: 42px;line-height: 42px; background-color: #ff0036;border: none;border-radius: 3px;margin-top: 20px;color:#fff;font-size: 16px;font-weight: bold;outline: none;}
+.login-links{height: 30px;width: 300px;box-sizing: border-box;margin-top: 20px;padding-left: 103px;}
+.button:hover{cursor: pointer;opacity: 0.8;}
+.login-links-a{font-size: 12px; color: #6c6c6c;margin-left: 10px;}
+.login-links-a:hover{color: #ff0036;}
+.text2{width: 350px; height: 400px;position: absolute;right: 75px;top: 87px;background: #fff;box-sizing: border-box;padding: 10px;display: none;z-index: 100}
+.text2 .icon-Computer{position:absolute;right: 7px;font-size: 50px;color: #ff0036;}
+.qrcode-main{position: relative;margin-top: 24px;height: 140px;text-align: center;}
+.qrcode-desc .icon-saomiao{float: left;color: #ff0036;font-size: 34px;line-height: 36px;margin-right: 10px;margin-left: 62px;}
+.qrcode-desc p{float:left;width: 144px;line-height: 18px;color: #6c6c6c; font-size: 12px; float: left;}
+.ft-gray{color: #9c9c9c;}
+.light-link{color: #ff0036;}
+.login-foot{text-align: right;height: 17px;box-sizing: border-box;padding-right:20px;}
+.login-foot .login-foot-a{color: #6c6c6c;font-size: 12px;}
+.login-foot-a:hover{color: #ff0036;}
+.footer{margin-top: 30px;}
+.bottom{height: 155px;}
+.bottom-p{margin-bottom: 10px;}
+.bottom-a{color: #000;font-size: 12px;margin-right: 10px;}
+.bottom-a:hover{text-decoration:underline}
+.bottom-span{color: #666;font-size: 12px;margin-right: 60px;}
+.bottom-span-a{font-size: 12px; color: #999}
+.bottom-span-a:hover{text-decoration: underline;}
+.i:hover{cursor: pointer;}
